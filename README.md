@@ -91,13 +91,14 @@ All coefficients align with established medical knowledge of tumor characteristi
 
 ## Repository Contents
 
+```text
 breast-cancer-classification/
-├── Classifying_Breast_Cancer.ipynb                  # Complete analysis notebook
-├── Breast_Cancer_Combined_Report.pdf                # Full technical report  with notebook
-├── README.md                            
-├── requirements.txt                                 # Python dependencies
-└── LICENSE                                          # MIT License
-
+├── Classifying_Breast_Cancer.ipynb      # Complete analysis notebook
+├── Breast_Cancer_Combined_Report.pdf    # Full report + notebook export
+├── README.md
+├── requirements.txt                     # Python dependencies
+└── LICENSE                              # MIT License
+```
 ---
 
 ## License
